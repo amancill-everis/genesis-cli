@@ -1,2 +1,2 @@
 # genesis-cli
-configuracion de generis cli
+configuracion del proyecto base de microservicios con genesis
